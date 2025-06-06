@@ -30,12 +30,11 @@ CPU: Apple M3
 GPU: Apple M3  
 ------------------------------------------
 Name: Bhavdiya Pandya  
-Uptime: 26 mins  
 Pronouns: He/Him  
 Location: Jaipur, India  
 Runtime: Python, JavaScript  
-Frameworks: React, Node.js, Express  
-Languages: Python, JavaScript, C++  
+Frameworks: React, Node.js, Express, Flask
+Languages: Python, JavaScript 
 About: A passionate full-stack developer and algorithm enthusiast eager to build impactful projects and master AI/ML.  
 ------------------------------------------
 ```
